@@ -5,7 +5,7 @@ import org.newdawn.slick.state.*;
 
 public class Play extends BasicGameState{
 
-	//Animation 
+	Animation bucky, movingU, movingDown, movinLeft, MovingRigth; 
 	
 	public Play(int state){
 	}
